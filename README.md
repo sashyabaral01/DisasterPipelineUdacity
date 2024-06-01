@@ -26,4 +26,9 @@ Visualization
 ![Screenshot 2024-06-01 at 15-16-59 Disasters](https://github.com/sashyabaral01/DisasterPipelineUdacity/assets/37986335/f56b70e9-7f7b-4d73-a870-4689571fee26)
 
 
-This is the charts I created. It shows the 
+This is the charts I created. It shows the percentage of distrubtion of messsages in the form of a pie chart and a barchart. It also counts the occurances of the different types of message requests.
+
+![Screenshot 2024-06-01 at 15-18-52 Disasters](https://github.com/sashyabaral01/DisasterPipelineUdacity/assets/37986335/b2746bcc-8705-4549-a5cc-18f553423f55)
+
+
+This shows the classification of the message after typing in the follwing messages: we are starving and we need to eat. This shows the classification of messages it belongs to. 
